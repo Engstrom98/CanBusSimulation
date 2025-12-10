@@ -1,2 +1,17 @@
-# CanBusSimulation
-A simulation of how Can-Bus works without the actual hardware. an educational project
+# Can-Bus Simulator
+A educational implementation of Controller Area Network (CAN) protocol in C
+
+## Prerequisites
+- GCC compiler
+- Make
+
+## Building
+```bash
+make
+```
+
+## Running
+```bash
+make run
+```
+
